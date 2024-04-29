@@ -1,0 +1,15 @@
+Documentação para rodar o projetos.
+
+Para inicializar o projeto
+go mod tidy
+go mod vendor
+
+// build da aplicação
+ir na pasta  github.com/amichelins/goexpert_multthreanding/cmd
+go build
+
+Para rodar:
+cmd {cep}
+
+EX:
+cmd 9104300

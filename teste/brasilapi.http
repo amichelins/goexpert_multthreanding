@@ -1,0 +1,16 @@
+###
+GET https://brasilapi.com.br/api/cep/v1/00000000
+Content-Type: application/json
+
+###
+GET https://brasilapi.com.br/api/cep/v1/91040300
+Content-Type: application/json
+
+
+###
+GET https://viacep.com.br/ws/00000000/json/
+Content-Type: application/json
+
+###
+GET https://viacep.com.br/ws/91040300/json/
+Content-Type: application/json
